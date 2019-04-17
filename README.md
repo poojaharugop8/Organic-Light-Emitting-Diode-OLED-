@@ -1,0 +1,2 @@
+# Organic-Light-Emitting-Diode-OLED-
+An Organic Light Emitting Diode (OLED) is a semiconductor device, solid in state containing a conducting and an emissive layer between two electrodes in which the emissive electroluminescent layer is a film of  to create light with application of electricity. This layer of organic semiconductor is situated between two electrodes; typically at least one of these electrodes is transparent. Used in many day-to-day appliances such as portable mobile phones, handheld games, digital displays in television screens, computer monitors etc.
